@@ -2,7 +2,7 @@ connexion==2.14.2
 flask==2.2.2
 flask-sqlalchemy==3.0.3
 jsonschema==4.17.3
-sqlalchemy==0.6.9
+sqlalchemy==1.4.1
 swagger-ui-bundle
 PyJWT==2.6.0
 markupsafe==2.1.2
