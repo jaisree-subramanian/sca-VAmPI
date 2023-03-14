@@ -1,4 +1,4 @@
-connexion==2.14.2
+connexion==1.0.84
 flask==1.0.4
 flask-sqlalchemy==2.5.1
 jsonschema==4.17.3
