@@ -1,0 +1,6 @@
+{
+  "settingsInheritedFrom": "jaisree-subramanian/whitesource-config@main",
+  "scanSettings": {
+    "baseBranches": ["main","efficacytest"]
+  }
+}
