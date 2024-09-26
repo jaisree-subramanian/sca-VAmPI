@@ -1,4 +1,4 @@
-FROM python:3.7-alpine as builder
+FROM python:3.8-alpine as builder
 RUN apk --update add bash nano g++
 COPY . /vampi
 WORKDIR /vampi
